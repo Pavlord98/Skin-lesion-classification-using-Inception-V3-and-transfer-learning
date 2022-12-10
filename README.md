@@ -4,3 +4,8 @@ Neural network model for classificaion of skin lessions based on the [Inception 
 
 <h3>Results</h3>
 
+|                      | Precision | Sensitivity | Specificity | F1 Score |
+|----------------------|:---------:|:-----------:|:-----------:|:--------:|
+| Basal cell carcinoma |    0.87   |     0.92    |     0.95    |    0.9   |
+|       Melanoma       |    0.78   |     0.73    |     0.89    |   0.75   |
+|        Naevus        |    0.79   |     0.81    |     0.9     |   0.82   |
